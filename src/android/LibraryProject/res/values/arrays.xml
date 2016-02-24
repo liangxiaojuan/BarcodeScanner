@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string-array name="country_codes">
+  <string-array name="country_codes" translatable="false">
     <item>-</item>
     <item>AR</item>
     <item>AU</item>
